@@ -1,1 +1,1 @@
-rteter
+print('ciao')
